@@ -12538,3 +12538,61 @@ Script Stack (0 frames):
 [2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes/SFX/Explosion1.Explosion1
 [2021.06.13-08.07.53:495][711]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes/HP.HP
 [2021.06.13-08.07.53:495][711]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames
+[2021.06.13-08.14.59:042][ 49]LogContentBrowser: Attempting asset rename: Wes -> Wes2
+[2021.06.13-08.14.59:185][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/VoxelRevolution_MusicACD4B0E04D29A6F2CABB629DFF2907DB.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/VoxelRevolution_Music.uasset'
+[2021.06.13-08.14.59:191][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Shoot2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Shoot2.uasset" SILENT=true
+[2021.06.13-08.14.59:195][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Shoot2C86517C94C1720518680F780702E81F0.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Shoot2.uasset'
+[2021.06.13-08.14.59:199][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Shoot1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Shoot1.uasset" SILENT=true
+[2021.06.13-08.14.59:202][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Shoot10CAF67E34FF28C4D256194913C543A7D.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Shoot1.uasset'
+[2021.06.13-08.14.59:209][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/LoadUp" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/LoadUp.uasset" SILENT=true
+[2021.06.13-08.14.59:213][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/LoadUpD39763AE4EC0D764EB00A5B539A169C0.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/LoadUp.uasset'
+[2021.06.13-08.14.59:230][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Flying4" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying4.uasset" SILENT=true
+[2021.06.13-08.14.59:236][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying484014912462710535F71D4A400E9F523.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying4.uasset'
+[2021.06.13-08.14.59:243][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Flying3" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying3.uasset" SILENT=true
+[2021.06.13-08.14.59:246][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying3F11BDE4841309C9B54A4EDA5D4E10915.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying3.uasset'
+[2021.06.13-08.14.59:247][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Flying2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying2.uasset" SILENT=true
+[2021.06.13-08.14.59:248][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying2CB87C1C649AC08058E07CDBA3388EE51.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying2.uasset'
+[2021.06.13-08.14.59:256][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Flying1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying1.uasset" SILENT=true
+[2021.06.13-08.14.59:261][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying1D3C429EA45C290F181B257BF3D5488D3.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Flying1.uasset'
+[2021.06.13-08.14.59:263][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Fail2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Fail2.uasset" SILENT=true
+[2021.06.13-08.14.59:264][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Fail2804B74C04AC2ADCBEC4DF1A27952068A.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Fail2.uasset'
+[2021.06.13-08.14.59:270][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Fail1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Fail1.uasset" SILENT=true
+[2021.06.13-08.14.59:274][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Fail18EB70F364C0947AE2BE9759C1CF51A68.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Fail1.uasset'
+[2021.06.13-08.14.59:278][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Explosion2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Explosion2.uasset" SILENT=true
+[2021.06.13-08.14.59:281][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Explosion22B8504D544EC607BB9D6A984B467F072.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Explosion2.uasset'
+[2021.06.13-08.14.59:282][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/SFX/Explosion1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Explosion1.uasset" SILENT=true
+[2021.06.13-08.14.59:283][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Explosion1476DA26D4C92ED22DBCA9ABB29CD6877.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/SFX/Explosion1.uasset'
+[2021.06.13-08.14.59:286][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes2/HP" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/HP.uasset" SILENT=true
+[2021.06.13-08.14.59:288][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/HP3F25675D46FD4EEEC9076F8B4218DAA6.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/HP.uasset'
+[2021.06.13-08.14.59:317][ 49]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/1601_m00_i104_n010_P_c25_259592078FA520743C6C43440331DB7F2DF1157.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes2/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.uasset'
+[2021.06.13-08.14.59:804][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.06.13-08.14.59:862][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.13-08.14.59:915][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.13-08.14.59:971][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.06.13-08.15.00:039][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.06.13-08.15.00:095][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.06.13-08.15.00:151][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.06.13-08.15.00:203][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.06.13-08.15.00:265][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.06.13-08.15.00:326][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.13-08.15.00:380][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.06.13-08.15.00:433][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.06.13-08.15.00:496][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.06.13-08.15.00:549][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.06.13-08.15.00:624][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.06.13-08.15.00:675][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.06.13-08.15.00:747][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes2/VoxelRevolution_Music.VoxelRevolution_Music
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Shoot2.Shoot2
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Shoot1.Shoot1
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/LoadUp.LoadUp
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Flying4.Flying4
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Flying3.Flying3
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes2/SFX/Flying2.Flying2
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Flying1.Flying1
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes2/SFX/Fail2.Fail2
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Fail1.Fail1
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes2/SFX/Explosion2.Explosion2
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes2/SFX/Explosion1.Explosion1
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes2/HP.HP
+[2021.06.13-08.15.00:747][ 49]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes2/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames
