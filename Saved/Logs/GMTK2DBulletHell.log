@@ -12305,3 +12305,236 @@ Script Stack (0 frames):
 [2021.06.13-07.52.25:288][400]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.13-07.52.25:288][400]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
 [2021.06.13-07.52.25:288][400]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.06.13-08.02.26:549][380]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-08.02.26:565][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-08.02.26:565][380]PIE: New page: PIE session: MainLevel (Jun 13, 2021, 12:02:26 AM)
+[2021.06.13-08.02.26:566][380]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.06.13-08.02.26:578][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011888s)
+[2021.06.13-08.02.26:581][380]LogAIModule: Creating AISystem for world MainLevel
+[2021.06.13-08.02.26:582][380]LogPlayLevel: PIE: World Init took: (0.003788s)
+[2021.06.13-08.02.26:582][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.016242s)
+[2021.06.13-08.02.26:711][380]LogUObjectHash: Compacting FUObjectHashTables data took   8.62ms
+[2021.06.13-08.02.26:714][380]LogAudio: Display: Creating Audio Device:                 Id: 172, Scope: Unique, Realtime: True
+[2021.06.13-08.02.26:714][380]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-08.02.26:714][380]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-08.02.26:715][380]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-08.02.26:715][380]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-08.02.26:715][380]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-08.02.26:715][380]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-08.02.26:715][380]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-08.02.26:715][380]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-08.02.26:715][380]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-08.02.26:715][380]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-08.02.26:719][380]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-08.02.26:719][380]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-08.02.26:737][380]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.06.13-08.02.26:738][380]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-08.02.26:738][380]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-08.02.26:738][380]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-08.02.26:739][380]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-08.02.26:739][380]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-08.02.26:739][380]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-08.02.26:762][380]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-08.02.26:762][380]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-08.02.26:762][380]LogInit: FAudioDevice initialized.
+[2021.06.13-08.02.26:762][380]LogAudio: Display: Audio Device (ID: 172) registered with world 'MainLevel'.
+[2021.06.13-08.02.26:771][380]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.13-08.02.26:777][380]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.06.13-04.02.26
+[2021.06.13-08.02.26:778][380]LogWorld: Bringing up level for play took: 0.005422
+[2021.06.13-08.02.26:778][380]LogOnline: OSS: Creating online subsystem instance for: :Context_200
+[2021.06.13-08.02.26:781][380]PIE: Server logged in
+[2021.06.13-08.02.26:782][380]PIE: Play in editor total start time 0.219 seconds.
+[2021.06.13-08.02.28:230][428]LogBlueprintUserMessages: [BP_HomingEnemy_4] 100
+[2021.06.13-08.02.29:477][472]LogBlueprintUserMessages: [BP_Player_C_0] 6.0
+[2021.06.13-08.02.30:896][520]LogBlueprintUserMessages: [BP_BasicEnemy_C_0] 150
+[2021.06.13-08.02.32:177][565]LogBlueprintUserMessages: [BP_HomingEnemy_C_0] 250
+[2021.06.13-08.02.32:914][591]LogBlueprintUserMessages: [BP_HomingEnemy_C_1] 350
+[2021.06.13-08.02.34:229][637]LogBlueprintUserMessages: [BP_BasicEnemy_C_1] 400
+[2021.06.13-08.02.34:603][650]LogBlueprintUserMessages: [BP_Player_C_0] 5.0
+[2021.06.13-08.02.34:636][651]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2271.164 Y=20.000 Z=1033.714] for [BP_HomingEnemy_C]
+[2021.06.13-08.02.35:050][665]LogBlueprintUserMessages: [BP_BasicEnemy_C_2] 450
+[2021.06.13-08.02.35:767][689]LogBlueprintUserMessages: [BP_HomingEnemy_C_2] 550
+[2021.06.13-08.02.36:582][718]LogBlueprintUserMessages: [BP_BasicEnemy_C_3] 600
+[2021.06.13-08.02.38:137][772]LogBlueprintUserMessages: [BP_Player_C_0] 4.0
+[2021.06.13-08.02.39:760][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-08.02.39:760][829]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.06.13-08.02.39:761][829]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-08.02.39:761][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-08.02.39:790][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-08.02.39:820][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-08.02.39:866][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-08.02.39:866][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-08.02.39:867][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-08.02.39:896][829]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2021.06.13-08.02.39:966][830]LogPlayLevel: Display: Destroying online subsystem :Context_200
+[2021.06.13-08.03.50:491][485]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sky_Sprite3)
+[2021.06.13-08.03.51:409][511]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sky_Sprite2)
+[2021.06.13-08.03.52:307][536]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerShadow_C (BP_PlayerShadow)
+[2021.06.13-08.04.06:835][  9]LogEditorViewport: Clicking on Actor (LMB): BP_HomingEnemy_C (BP_HomingEnemy)
+[2021.06.13-08.04.08:087][ 45]LogEditorViewport: Clicking on Actor (LMB): BP_BasicEnemy_C (BP_BasicEnemy)
+[2021.06.13-08.04.08:997][ 72]LogEditorViewport: Clicking on Actor (LMB): BP_HomingEnemy_C (BP_HomingEnemy)
+[2021.06.13-08.04.11:589][151]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerShadow_C (BP_PlayerShadow)
+[2021.06.13-08.04.54:378][366]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.13-08.04.54:394][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.13-08.04.54:395][366]PIE: New page: PIE session: MainLevel (Jun 13, 2021, 12:04:54 AM)
+[2021.06.13-08.04.54:403][366]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.06.13-08.04.54:415][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011830s)
+[2021.06.13-08.04.54:418][366]LogAIModule: Creating AISystem for world MainLevel
+[2021.06.13-08.04.54:418][366]LogPlayLevel: PIE: World Init took: (0.003542s)
+[2021.06.13-08.04.54:418][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.015702s)
+[2021.06.13-08.04.54:520][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.06.13-08.04.54:528][366]LogAudio: Display: Creating Audio Device:                 Id: 173, Scope: Unique, Realtime: True
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.13-08.04.54:528][366]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.13-08.04.54:528][366]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.13-08.04.54:529][366]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.13-08.04.54:529][366]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.13-08.04.54:532][366]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.13-08.04.54:532][366]LogAudioMixer: Display: 1: FrontRight
+[2021.06.13-08.04.54:549][366]LogAudioMixer: Display: Using Audio Device Speaker/HP (Realtek High Definition Audio)
+[2021.06.13-08.04.54:550][366]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.13-08.04.54:550][366]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.13-08.04.54:550][366]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.13-08.04.54:550][366]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.13-08.04.54:550][366]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.13-08.04.54:550][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.13-08.04.54:569][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.13-08.04.54:569][366]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.13-08.04.54:569][366]LogInit: FAudioDevice initialized.
+[2021.06.13-08.04.54:569][366]LogAudio: Display: Audio Device (ID: 173) registered with world 'MainLevel'.
+[2021.06.13-08.04.54:580][366]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.13-08.04.54:582][366]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.06.13-04.04.54
+[2021.06.13-08.04.54:582][366]LogWorld: Bringing up level for play took: 0.001148
+[2021.06.13-08.04.54:582][366]LogOnline: OSS: Creating online subsystem instance for: :Context_201
+[2021.06.13-08.04.54:585][366]PIE: Server logged in
+[2021.06.13-08.04.54:586][366]PIE: Play in editor total start time 0.195 seconds.
+[2021.06.13-08.04.56:606][436]LogBlueprintUserMessages: [BP_HomingEnemy_4] 100
+[2021.06.13-08.04.57:227][456]LogBlueprintUserMessages: [BP_BasicEnemy_2] 150
+[2021.06.13-08.04.58:249][492]LogBlueprintUserMessages: [BP_BasicEnemy_C_0] 200
+[2021.06.13-08.04.59:421][533]LogBlueprintUserMessages: [BP_BasicEnemy_C_1] 250
+[2021.06.13-08.05.00:571][572]LogBlueprintUserMessages: [BP_HomingEnemy_C_0] 350
+[2021.06.13-08.05.02:294][631]LogBlueprintUserMessages: [BP_Player_C_0] 6.0
+[2021.06.13-08.05.04:317][702]LogBlueprintUserMessages: [BP_Player_C_0] 5.0
+[2021.06.13-08.05.04:408][705]LogBlueprintUserMessages: [BP_Player_C_0] 4.0
+[2021.06.13-08.05.04:712][716]LogBlueprintUserMessages: [BP_BasicEnemy_C_4] 400
+[2021.06.13-08.05.05:021][727]LogBlueprintUserMessages: [BP_BasicEnemy_C_7] 450
+[2021.06.13-08.05.06:839][787]LogBlueprintUserMessages: [BP_Player_C_0] 3.0
+[2021.06.13-08.05.09:269][862]LogBlueprintUserMessages: [BP_BasicEnemy_C_8] 500
+[2021.06.13-08.05.10:874][912]LogBlueprintUserMessages: [BP_Player_C_0] 2.0
+[2021.06.13-08.05.10:922][914]LogBlueprintUserMessages: [BP_Player_C_0] 1.0
+[2021.06.13-08.05.12:529][961]LogBlueprintUserMessages: [BP_HomingEnemy_C_2] 600
+[2021.06.13-08.05.13:509][991]LogBlueprintUserMessages: [BP_HomingEnemy_C_3] 700
+[2021.06.13-08.05.13:844][  1]LogBlueprintUserMessages: [BP_Player_C_0] 0.0
+[2021.06.13-08.05.13:845][  1]LogBlueprintUserMessages: [BP_GameMode_C_0] Ur dead lol
+[2021.06.13-08.05.14:363][ 17]LogBlueprintUserMessages: [BP_Player_C_0] -1.0
+[2021.06.13-08.05.14:364][ 17]LogBlueprintUserMessages: [BP_GameMode_C_0] Ur dead lol
+[2021.06.13-08.05.15:870][ 63]LogNet: Browse: /Game/MainLevel
+[2021.06.13-08.05.15:870][ 63]LogLoad: LoadMap: /Game/MainLevel
+[2021.06.13-08.05.15:870][ 63]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.06.13-08.05.15:872][ 63]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-08.05.15:872][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-08.05.15:968][ 63]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-08.05.15:973][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.06.13-08.05.15:976][ 63]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2021.06.13-08.05.15:979][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003186s)
+[2021.06.13-08.05.15:980][ 63]LogAIModule: Creating AISystem for world MainLevel
+[2021.06.13-08.05.15:980][ 63]LogPlayLevel: PIE: World Init took: (0.000957s)
+[2021.06.13-08.05.15:980][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004303s)
+[2021.06.13-08.05.15:980][ 63]LogAudio: Display: Audio Device (ID: 173) registered with world 'MainLevel'.
+[2021.06.13-08.05.15:980][ 63]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.13-08.05.15:982][ 63]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.06.13-04.05.15
+[2021.06.13-08.05.15:982][ 63]LogWorld: Bringing up level for play took: 0.001049
+[2021.06.13-08.05.15:984][ 63]LogLoad: Took 0.113293 seconds to LoadMap(/Game/UEDPIE_0_MainLevel)
+[2021.06.13-08.05.18:735][154]LogBlueprintUserMessages: [BP_Player_C_0] 6.0
+[2021.06.13-08.05.18:987][162]LogBlueprintUserMessages: [BP_BasicEnemy_C_1] 50
+[2021.06.13-08.05.21:283][234]LogBlueprintUserMessages: [BP_Player_C_0] 5.0
+[2021.06.13-08.05.21:452][239]LogBlueprintUserMessages: [BP_Player_C_0] 4.0
+[2021.06.13-08.05.22:501][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-08.05.22:501][271]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2021.06.13-08.05.22:502][271]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.13-08.05.22:504][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-08.05.22:532][271]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.13-08.05.22:553][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.13-08.05.22:612][271]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.13-08.05.22:613][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-08.05.22:613][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.13-08.05.22:633][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.13-08.05.22:639][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.06.13-08.05.22:704][272]LogPlayLevel: Display: Destroying online subsystem :Context_201
+[2021.06.13-08.07.33:418][457]LogAssetTools: Warning: Failed to import 'C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/ExplosionFX/1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames.eps'. Unknown extension 'eps'.
+[2021.06.13-08.07.33:424][457]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/ExplosionFX/1601.m00.i104.n010.P.c25.259592090 Video game explosion animation in Pixel Art. Explosion animation frames.jpg)
+[2021.06.13-08.07.34:001][457]LogTexture: Display: Building textures: 1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames (BGRA8, 5790X4500)
+[2021.06.13-08.07.35:511][457]LogAssetTools: Warning: Failed to import 'C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/ExplosionFX/video-game-explosion-animation-pixel-art-explosion-animation-frames.zip'. Unknown extension 'zip'.
+[2021.06.13-08.07.35:528][457]LogAssetTools: Warning: Failed to import 'C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/HP(Layers).mdp'. Unknown extension 'mdp'.
+[2021.06.13-08.07.35:530][457]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/HP.png)
+[2021.06.13-08.07.35:539][457]LogTexture: Display: Building textures: HP (AutoDXT, 128X128)
+[2021.06.13-08.07.35:556][457]LogAssetTools: Warning: Failed to import 'C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/Lisences.txt'. Unknown extension 'txt'.
+[2021.06.13-08.07.35:558][457]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Explosion1.mp3)
+[2021.06.13-08.07.35:563][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Explosion2.wav)
+[2021.06.13-08.07.35:575][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Fail1.wav)
+[2021.06.13-08.07.35:585][457]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Fail2.mp3)
+[2021.06.13-08.07.35:607][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Flying1.wav)
+[2021.06.13-08.07.35:822][457]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Flying2.mp3)
+[2021.06.13-08.07.35:839][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Flying3.wav)
+[2021.06.13-08.07.36:363][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Flying4.wav)
+[2021.06.13-08.07.37:159][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/LoadUp.wav)
+[2021.06.13-08.07.37:172][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Shoot1.wav)
+[2021.06.13-08.07.37:180][457]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/SFX/Shoot2.wav)
+[2021.06.13-08.07.37:201][457]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\wesle\OneDrive\Desktop\GMTK\Assets\Wes/VoxelRevolution_Music.mp3)
+[2021.06.13-08.07.48:870][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.13-08.07.48:935][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.06.13-08.07.48:954][607]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/MainLevel8A09B4344F5F29A45A4C5FADC5BE2BAD.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/MainLevel.umap'
+[2021.06.13-08.07.48:965][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainLevel_BuiltData" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/MainLevel_BuiltData.uasset" SILENT=true
+[2021.06.13-08.07.48:981][607]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/MainLevel_BuiltDataDF5509514C313E45759316BD68A9542D.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/MainLevel_BuiltData.uasset'
+[2021.06.13-08.07.49:002][607]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-08.07.49:002][607]LogContentValidation: Display: Validating World /Game/MainLevel.MainLevel
+[2021.06.13-08.07.49:002][607]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.06.13-08.07.51:116][650]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/1601_m00_i104_n010_P_c25_25959203E620A6748A51A8318DC60AD829CB5B4.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.uasset'
+[2021.06.13-08.07.51:184][650]AssetCheck: New page: Asset Save: 1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames
+[2021.06.13-08.07.51:184][650]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames
+[2021.06.13-08.07.53:329][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/1601_m00_i104_n010_P_c25_2595920BD37A3ED4ABA79E1D0C7CAB6D7AF87DE.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.uasset'
+[2021.06.13-08.07.53:331][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Explosion1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Explosion1.uasset" SILENT=true
+[2021.06.13-08.07.53:332][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Explosion14E557B15424AC35EA06B28A2D5142243.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Explosion1.uasset'
+[2021.06.13-08.07.53:337][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Explosion2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Explosion2.uasset" SILENT=true
+[2021.06.13-08.07.53:341][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Explosion2335BBA274F4A6C65215253930E3A653D.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Explosion2.uasset'
+[2021.06.13-08.07.53:348][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Fail1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Fail1.uasset" SILENT=true
+[2021.06.13-08.07.53:351][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Fail1CEE9EEA44719D35F34F831AA24B20A5B.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Fail1.uasset'
+[2021.06.13-08.07.53:352][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Fail2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Fail2.uasset" SILENT=true
+[2021.06.13-08.07.53:353][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Fail25B0211C64ABE851A43C81A84884A0EAF.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Fail2.uasset'
+[2021.06.13-08.07.53:364][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Flying1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying1.uasset" SILENT=true
+[2021.06.13-08.07.53:368][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying14921DEA14403E459FC67D6B469B04308.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying1.uasset'
+[2021.06.13-08.07.53:369][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Flying2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying2.uasset" SILENT=true
+[2021.06.13-08.07.53:370][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying24528773348A3395ADFA295A880795F60.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying2.uasset'
+[2021.06.13-08.07.53:379][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Flying3" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying3.uasset" SILENT=true
+[2021.06.13-08.07.53:382][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying3DC2DF71743425E30B3F17C93656FF34A.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying3.uasset'
+[2021.06.13-08.07.53:401][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Flying4" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying4.uasset" SILENT=true
+[2021.06.13-08.07.53:413][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Flying4884F9E0948C01C123002DBA09BBD8B63.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Flying4.uasset'
+[2021.06.13-08.07.53:415][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/HP" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/HP.uasset" SILENT=true
+[2021.06.13-08.07.53:417][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/HP43EB1ED24101ACAF761E838F7E42B107.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/HP.uasset'
+[2021.06.13-08.07.53:426][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/LoadUp" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/LoadUp.uasset" SILENT=true
+[2021.06.13-08.07.53:435][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/LoadUpD886B06644530E61CA84A5A0827A675C.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/LoadUp.uasset'
+[2021.06.13-08.07.53:441][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Shoot1" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Shoot1.uasset" SILENT=true
+[2021.06.13-08.07.53:446][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Shoot18BE81FB3435F66D795FE72AAFA592137.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Shoot1.uasset'
+[2021.06.13-08.07.53:450][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wes/SFX/Shoot2" FILE="../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Shoot2.uasset" SILENT=true
+[2021.06.13-08.07.53:452][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/Shoot2C81D95F041DD662E530DF7857383E430.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/SFX/Shoot2.uasset'
+[2021.06.13-08.07.53:455][711]LogSavePackage: Moving '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Saved/VoxelRevolution_Music14F6250C4F132F23372F64891B97CA4F.tmp' to '../../../../../../Users/wesle/OneDrive/Desktop/Unreal projects/GMTK2DBulletHell/Content/Assets/Wes/VoxelRevolution_Music.uasset'
+[2021.06.13-08.07.53:493][711]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes/VoxelRevolution_Music.VoxelRevolution_Music
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Shoot2.Shoot2
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Shoot1.Shoot1
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/LoadUp.LoadUp
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Flying4.Flying4
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Flying3.Flying3
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes/SFX/Flying2.Flying2
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Flying1.Flying1
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes/SFX/Fail2.Fail2
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Fail1.Fail1
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating SoundWave /Game/Assets/Wes/SFX/Explosion2.Explosion2
+[2021.06.13-08.07.53:494][711]LogContentValidation: Display: Validating FileMediaSource /Game/Assets/Wes/SFX/Explosion1.Explosion1
+[2021.06.13-08.07.53:495][711]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes/HP.HP
+[2021.06.13-08.07.53:495][711]LogContentValidation: Display: Validating Texture2D /Game/Assets/Wes/ExplosionFX/1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames.1601_m00_i104_n010_P_c25_259592090_Video_game_explosion_animation_in_Pixel_Art__Explosion_animation_frames
